@@ -22,14 +22,9 @@ def main():
 
 
 def print_header():
-    #home = \
-        #"""
-        #Possible Picture
-        #"""
-    
+    print()
     print(Fore.WHITE + '****************  Weekend Away  ****************')
     print()
-    #print(Fore.GREEN + home)
     print(Fore.WHITE + '************************************************')
     print()
     print("Welcome to Weekend Away!")
